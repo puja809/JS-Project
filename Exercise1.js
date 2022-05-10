@@ -1,4 +1,4 @@
-// Get the link of an HTML page and match if a string is present or not 
+// Get the link of an HTML page and match if a string is present or not  
 let str="google";
 let a=document.links;
 // console.log(a);
